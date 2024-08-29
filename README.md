@@ -2,6 +2,8 @@
 - Lịch sử Java
 - Các đặc điểm chính của Java
 - JVM (Java Virtual Machine), JRE (Java Runtime Environment), JDK (Java Development Kit)
+- [Cách cài đặt](https://www.youtube.com/watch?v=uWdaOoMgFvs&list=PLScF8do8T751dSyEHb2GrKuNz2FPBZ0Db&index=7)
+- [Hàm Main ?](https://www.youtube.com/watch?v=a9g47ze2vNM&list=PLScF8do8T751dSyEHb2GrKuNz2FPBZ0Db&index=15)
 2. Cấu trúc chương trình Java
 - Khái niệm class, method
 - Cú pháp cơ bản
